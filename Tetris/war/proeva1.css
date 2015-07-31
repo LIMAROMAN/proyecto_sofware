@@ -1,0 +1,58 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+ddiv#siguientePieza {background: #000000;
+					margin-top: 0px;
+					border: solid #FF0  3px;
+					padding: 7px 7px 7px 7px;
+					
+					width: 80px;
+					height: 75px;
+}
+
+div#puntuacion {	background: #000000;
+					margin-top: 0px;
+					border: solid #FF0  3px;
+					padding: 7px 7px 7px 7px;
+					width: 80px;
+					height: 20px;
+					font-family: arial; 
+					font-weight: bold;
+					color: yellow;
+					margin-bottom:10px;
+}
+
+div#nivel {	background: #000000;
+					margin-top: 0px;
+					border: solid #FF0  3px;
+					padding: 7px 7px 7px 7px;
+					width: 80px;
+					height: 20px;
+					font-family: arial;
+					 font-weight: bold;
+					color: yellow;
+
+}
+
+div#marcadores {	background: #000000;
+					margin-top: 0px;
+					border: solid #FF0 3px;
+					padding: 7px 7px 7px 7px;
+					width: 80px;
+					height: 120px;
+					font-family: arial; 
+					font-weight: bold;
+					color: yellow;
+
+}
+.tablaTetris{
+	margin:0px auto;
+	padding:0px;
+	width:300px;
+	border-color: yellow ;
+	border-style: groove double;
+	background: #000000;
+
+}
+
